@@ -16,10 +16,3 @@ This is a Node.js-based authentication application that uses Prisma ORM for data
 - [MongoDB](https://www.mongodb.com/try/download/community)
 - [Prisma CLI](https://www.prisma.io/docs/getting-started/quickstart)
 
-## Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone <repository-url>
-cd authentication-app
